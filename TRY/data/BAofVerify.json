@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "waktu_pelaksanaan": "",
+    "nama": "",
+    "nip": "papapa",
+    "golongan": "<kivy.uix.textinput.TextInput object at 0x000001B7E20B4E40>",
+    "jabatan": "ksdksjdk",
+    "dihadiri_oleh": "eowkokew",
+    "kesimpulan": "okdowkdokwokdow"
+  },
+  {
+    "id": 2,
+    "waktu_pelaksanaan": "",
+    "nama": "",
+    "nip": "2392938923",
+    "golongan": "sdosjdosjd",
+    "jabatan": "joiwjfowijef",
+    "dihadiri_oleh": "woijfoijwfkjslkdnfs",
+    "kesimpulan": "kdfjklsjdflkjslkfjklsjfsdfsdjfbsflsjdbfj"
+  },
+  {
+    "id": 3,
+    "waktu_pelaksanaan": "",
+    "nama": "",
+    "nip": "2392938923",
+    "golongan": "sdosjdosjd",
+    "jabatan": "joiwjfowijef",
+    "dihadiri_oleh": "woijfoijwfkjslkdnfs",
+    "kesimpulan": "kdfjklsjdflkjslkfjklsjfsdfsdjfbsflsjdbfj"
+  },
+  {
+    "id": 4,
+    "waktu_pelaksanaan": "",
+    "nama": "idjfidjif",
+    "nip": "2392938923",
+    "golongan": "sdosjdosjd",
+    "jabatan": "joiwjfowijef",
+    "dihadiri_oleh": "woijfoijwfkjslkdnfs",
+    "kesimpulan": "kdfjklsjdflkjslkfjklsjfsdfsdjfbsflsjdbfj"
+  },
+  {
+    "id": 5,
+    "instansi": "djsjodjsjdos",
+    "nama": "oadkoskdok",
+    "nip": "02308239892",
+    "golongan": "ojwodjowjdw",
+    "jabatan": "ojwodjojwd",
+    "dihadiri_oleh": "odjwojdowjd",
+    "kesimpulan": "wojdowjdojw"
+  }
+]
